@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ruwaidah 👋
 
-<!--
-**Ruwaidah/Ruwaidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer building modern web apps with clean UI and real-world workflows.
 
-Here are some ideas to get you started:
+**Tech:** React (Vite), Tailwind, Node/Express, PostgreSQL/Knex, Socket.io, Cloudinary, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Workforce Scheduling App** — RBAC, weekly scheduling, requests, conflict detection  
+  Live: https://schedule-fe-jmpv.onrender.com/login  
+  FE: https://github.com/Ruwaidah/schedule-fe | BE: https://github.com/Ruwaidah/schedule-be  
+
+- **Connect (Real-time Messaging)** — Socket.io, profiles, media uploads  
+  Live: https://message-app-ukya.onrender.com/  
+  FE: https://github.com/Ruwaidah/connect-fe | BE: https://github.com/Ruwaidah/connect-be  
+
+- **Boo (Pet Adoption App)** — searchable listings + filters  
+  Live: https://boo-fe.onrender.com/  
+  Code: https://github.com/Ruwaidah/boo-fe  
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ruwaidah/
+- Email: ruwaidah.riyadh@gmail.com
